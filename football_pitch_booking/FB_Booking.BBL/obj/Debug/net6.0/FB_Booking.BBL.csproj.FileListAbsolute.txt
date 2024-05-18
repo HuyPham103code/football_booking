@@ -1,0 +1,17 @@
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.BBL.deps.json
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.BBL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.BBL.pdb
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.AssemblyInfoInputs.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.AssemblyInfo.cs
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.csproj.CoreCompileInputs.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\refint\FB_Booking.BBL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.pdb
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\ref\FB_Booking.BBL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.BBL.runtimeconfig.json
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.csproj.AssemblyReference.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.genruntimeconfig.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.DAL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\bin\Debug\net6.0\FB_Booking.DAL.pdb
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.BBL\obj\Debug\net6.0\FB_Booking.BBL.csproj.CopyComplete

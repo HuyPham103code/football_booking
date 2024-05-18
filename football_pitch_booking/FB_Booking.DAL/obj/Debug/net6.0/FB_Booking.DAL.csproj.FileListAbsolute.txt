@@ -1,0 +1,14 @@
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\bin\Debug\net6.0\FB_Booking.DAL.deps.json
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\bin\Debug\net6.0\FB_Booking.DAL.runtimeconfig.json
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\bin\Debug\net6.0\FB_Booking.DAL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\bin\Debug\net6.0\FB_Booking.DAL.pdb
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.csproj.AssemblyReference.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.AssemblyInfoInputs.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.AssemblyInfo.cs
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.csproj.CoreCompileInputs.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\refint\FB_Booking.DAL.dll
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.pdb
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\FB_Booking.DAL.genruntimeconfig.cache
+D:\nam_3\DatabaseProgramming\football_pitch_booking\FB_Booking.DAL\obj\Debug\net6.0\ref\FB_Booking.DAL.dll
